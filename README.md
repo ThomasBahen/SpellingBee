@@ -5,4 +5,4 @@ Example Call:
 ```bash
 python spelling_bee.py -l mnopytr
 ```
-Currently filters to three point words naively.
+
